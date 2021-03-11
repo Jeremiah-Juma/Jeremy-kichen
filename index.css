@@ -1,0 +1,30 @@
+ 
+body,html{
+    background-image: url(./images/landing.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-color: rgba(216, 132, 72, 0.822);
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-bar {
+    margin: auto;
+    border-bottom: 1px solid #0000;
+    width: 860px;
+    padding: 0px 20px 0px 20px;
+    height: 64px;
+}
+.nav-bar ul{
+    padding: 0;
+    list-style: none;
+}
+.nav-bar ul li{
+    float:left;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 10px;
+    
+}
+}
